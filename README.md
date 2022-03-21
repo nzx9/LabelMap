@@ -99,7 +99,7 @@
 
 - `count()`
   - Get the number of labels.
-  - Args: `None`'
+  - Args: `None`
   - Return Type: `int`
 
 - `as_dataframe()`
